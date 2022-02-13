@@ -1,5 +1,5 @@
-Таблица символов Юникода
-================
-Страница сделана с целью увидеть максимальное количество символов юникода.
+Tabel karakter Unicode
+==================
+Halaman tersebut dibuat untuk melihat jumlah maksimal karakter unicode.
 
-Посмотреть можно тут: <a href="http://yoksel.github.io/unicode-table/">yoksel.github.io/unicode-table/</a>.
+Anda dapat melihatnya di sini: <a href="http://yoksel.github.io/unicode-table/">yoksel.github.io/unicode-table/</a>.
