@@ -3,7 +3,7 @@ var step = 10000;
 var content__title = document.querySelector(".content__title");
 var context = "";
 var fonts = ["Arial", "Arial Unicode MS", "Courier New", "Georgia", "Tahoma", "Times", "Trebuchet", "Verdana"];
-var default_title = "Полезные символы<span>Моя подборка</span>";
+var default_title = "Simbol yang berguna<span>Pilihan saya</span>";
 
 initial();
 
@@ -11,7 +11,7 @@ function print_symbols ( min, max ) {
 
     var out = "";
     var placeOutput = document.getElementById("symbols");
-    placeOutput.innerHTML = "Загрузка";
+    placeOutput.innerHTML = "Memuat";
 
     out += "<ul class=\"entities\">";
 
