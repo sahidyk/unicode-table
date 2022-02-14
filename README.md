@@ -1,5 +1,5 @@
 Tabel karakter Unicode
 ==================
-Halaman tersebut dibuat untuk melihat jumlah maksimal karakter unicode.
+Rpositori ini dibuat untuk melihat jumlah maksimal karakter unicode.
 
-Anda dapat melihatnya di sini: <a href="http://yoksel.github.io/unicode-table/">yoksel.github.io/unicode-table/</a>.
+Anda dapat melihatnya di sini: <a href="http://sahidyk.github.io/unicode-table/">sahidyk.github.io/unicode-table/</a>.
